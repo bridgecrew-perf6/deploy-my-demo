@@ -1,5 +1,7 @@
 # hello-delop-my
 
+这个是利用github能进行个人博客书写的一个方式
+
 ## Project setup
 ```
 npm install
